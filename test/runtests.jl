@@ -1,6 +1,6 @@
-using FiniteDifference
+using NSDEFiniteDifference
 using Test
 
-@testset "FiniteDifference.jl" begin
+@testset "NSDEFiniteDifference.jl" begin
     # Write your tests here.
 end
